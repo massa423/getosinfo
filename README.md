@@ -1,2 +1,2 @@
 # getosinfo
-gather OS information of Red Hat Distribution
+collect OS information of Red Hat Distributions.
